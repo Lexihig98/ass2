@@ -1,0 +1,15 @@
+h2 {color: black}
+    h1 {color: black;}
+    p {text-align: left;}
+ body { background: rgb(144, 185, 238) }
+ #titleText { color:Black}
+
+ footer {color: black;}
+ h2 {text-align: left;}
+ .titleElement {text-decoration-line: underline;}
+ 
+ #main-content p{
+     color: rgb(255, 0, 119);
+ }
+ body { color: #FF1493;}
+ span {color: hotpink;}
